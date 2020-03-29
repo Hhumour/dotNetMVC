@@ -110,3 +110,6 @@ D:\dotNet\Vidly\Vidly\obj\Debug\netcoreapp3.1\Vidly.genruntimeconfig.cache
 D:\dotNet\Vidly\Vidly\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Random.cshtml.g.cs
 D:\dotNet\Vidly\Vidly\obj\Debug\netcoreapp3.1\Vidly.csprojAssemblyReference.cache
 D:\dotNet\Vidly\Vidly\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_NavBar.cshtml.g.cs
+D:\dotNet\Vidly\Vidly\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Details.cshtml.g.cs
+D:\dotNet\Vidly\Vidly\obj\Debug\netcoreapp3.1\Razor\Views\Customers\Index.cshtml.g.cs
+D:\dotNet\Vidly\Vidly\obj\Debug\netcoreapp3.1\Razor\Views\Movies\Index.cshtml.g.cs
